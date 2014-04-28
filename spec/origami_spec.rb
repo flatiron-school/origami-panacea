@@ -14,7 +14,7 @@ describe Origami do
     end
   end
 
-  describe '#baloon' do
+  describe '#balloon' do
     it 'is three dimensional' do
       expect(paper.balloon).to eq("has a height, width, and depth")
     end

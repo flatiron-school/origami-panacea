@@ -3,7 +3,7 @@ class Origami
     
   end
 
-  def baloon
+  def balloon
     
   end
 
