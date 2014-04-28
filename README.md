@@ -6,7 +6,7 @@ language: paper
 
 # Origami Panacea
 
-Your grandpa is in the insane asylum, and his doctors tell you that he is going to die unless you make him the most amazing of origami. The only problem is you don't know what your grandpa will find amaizing. 
+Your grandpa is in the insane asylum, and his doctors tell you that he is going to die unless you make him the most amazing of origami. The only problem is you don't know what your grandpa will find amazing. 
 
 ## Objectives
 * Cut a piece of paper into a square
