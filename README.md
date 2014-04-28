@@ -15,9 +15,7 @@ Your grandpa is in the insane asylum, and his doctors tell you that he is going 
 
 * Make an origami ballon
 
-  * Your grandpa really responded to that ballon, but is still a little loopy, and the doctors want to try something a little more agressive. 
-
-Dig deep and make the most epic of origami in a last ditch effort to save your grandpa
+  * Your grandpa really responded to that ballon, but is still a little loopy, and the doctors want to try something a little more agressive. Dig deep and make the most epic of origami in a last ditch effort to save your grandpa.
 
 * Make an origami crane
 
